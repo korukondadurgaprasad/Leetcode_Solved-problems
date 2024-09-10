@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0013-roman-to-integer) |
+| [2998-count-symmetric-integers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2998-count-symmetric-integers) |
 ## Array
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2551-apply-operations-to-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
