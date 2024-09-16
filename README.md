@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
