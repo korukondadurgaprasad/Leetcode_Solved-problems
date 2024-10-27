@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1013-fibonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2998-count-symmetric-integers) |
 ## Array
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0724-find-pivot-index) |
 | [2551-apply-operations-to-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
