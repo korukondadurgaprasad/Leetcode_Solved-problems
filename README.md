@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
 ## String
 |  |
@@ -97,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0278-first-bad-version) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
 ## Recursion
