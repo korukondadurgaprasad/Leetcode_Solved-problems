@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0070-climbing-stairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
@@ -164,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0048-rotate-image) |
 | [1677-matrix-diagonal-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
