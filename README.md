@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0724-find-pivot-index) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Two Pointers
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
