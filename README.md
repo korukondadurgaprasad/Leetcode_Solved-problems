@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1677-matrix-diagonal-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2551-apply-operations-to-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Two Pointers
