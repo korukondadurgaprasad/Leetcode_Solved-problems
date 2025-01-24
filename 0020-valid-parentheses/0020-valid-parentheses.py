@@ -17,4 +17,8 @@ class Solution(object):
         # If the stack is empty, the string is valid
         return len(stack) == 0
 
+        # # not stack:Prevents runtime errors when stack.pop() is called on an empty stack.
+        # Time Complexity (TC): O(n)
+        # Space Complexity (SC): O(n)
+
             
