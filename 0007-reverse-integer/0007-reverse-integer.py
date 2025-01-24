@@ -13,3 +13,4 @@ class Solution(object):
         return 0
       else:
         return res
+# In this case, both the time complexity (TC) and space complexity (SC) are O(log n)
