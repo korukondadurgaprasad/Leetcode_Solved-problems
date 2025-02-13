@@ -5,7 +5,8 @@ class Solution(object):
         # for i in range(len(nums)):
         #     for j in range(i+1,len(nums)):
         #         if nums[i]+nums[j]==target:
-        #             return i,j     
+        #             return i,j    
+
         # ---O(N)--
         num_index_map = {}
         for i in range(len(nums)):
@@ -15,3 +16,23 @@ class Solution(object):
 
             num_index_map[nums[i]] = i
         return []
+
+        #Using list we use .index menthod takes O(N2) TC
+    #     def two_sum_with_list(nums, target):
+    # num_list = []
+
+    # for i in range(len(nums)):
+    #     complement = target - nums[i]
+
+    #     if complement in num_list:
+    #         complement_index = nums.index(complement)
+    #         return [complement_index, i]
+
+    #     num_list.append(nums[i])
+
+    # return []
+# The space complexity depends mainly on the space used by num_index_map,
+#  which stores the elements of nums and their indices.
+# Worst case: In the worst case, we will store all the numbers in the dictionary,
+#  leading to space usage proportional to the number of elements in nums.
+# Space Complexity: O(n)
