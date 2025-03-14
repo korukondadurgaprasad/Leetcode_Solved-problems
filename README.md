@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0136-single-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0073-set-matrix-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1677-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
