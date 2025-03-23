@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2998-count-symmetric-integers) |
 ## Array
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 ## Simulation
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
