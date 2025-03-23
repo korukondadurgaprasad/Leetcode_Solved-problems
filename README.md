@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
