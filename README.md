@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Linked List
 |  |
