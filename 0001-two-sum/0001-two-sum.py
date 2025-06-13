@@ -18,19 +18,8 @@ class Solution(object):
         return []
 
         #Using list we use .index menthod takes O(N2) TC
-    #     def two_sum_with_list(nums, target):
-    # num_list = []
 
-    # for i in range(len(nums)):
-    #     complement = target - nums[i]
 
-    #     if complement in num_list:
-    #         complement_index = nums.index(complement)
-    #         return [complement_index, i]
-
-    #     num_list.append(nums[i])
-
-    # return []
 # The space complexity depends mainly on the space used by num_index_map,
 #  which stores the elements of nums and their indices.
 # Worst case: In the worst case, we will store all the numbers in the dictionary,
