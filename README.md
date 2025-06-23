@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0724-find-pivot-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1603-running-sum-of-1d-array) |
@@ -266,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
