@@ -7,7 +7,7 @@ class Solution(object):
         
         for i in range(length):
             # Check if the current numeral is less than the next numeral
-            if i <length-1 and rom[s[i]] < rom[s[i + 1]]:
+            if i <length-1 and rom[s[i]] <rom[s[i + 1]]:
                 total -= rom[s[i]]
             else:
                 total += rom[s[i]]
