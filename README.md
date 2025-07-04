@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0838-design-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0838-design-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
