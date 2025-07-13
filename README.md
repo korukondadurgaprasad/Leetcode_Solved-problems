@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0234-palindrome-linked-list) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0242-valid-anagram) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0328-odd-even-linked-list) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Bucket Sort
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0838-design-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
