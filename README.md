@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2998-count-symmetric-integers) |
 ## Array
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Counting
 |  |
