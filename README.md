@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2998-count-symmetric-integers) |
 ## Array
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2050-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
