@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Matrix
 |  |
 | ------- |
