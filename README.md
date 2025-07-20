@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0204-count-primes) |
 | [2998-count-symmetric-integers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2998-count-symmetric-integers) |
 ## Bit Manipulation
 |  |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
