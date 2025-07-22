@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0054-spiral-matrix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0142-linked-list-cycle-ii) |
