@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3396-valid-word](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3396-valid-word) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Design
 |  |
 | ------- |
