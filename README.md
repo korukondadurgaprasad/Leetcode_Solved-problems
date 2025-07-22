@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1677-matrix-diagonal-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0724-find-pivot-index) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1603-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |
