@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
