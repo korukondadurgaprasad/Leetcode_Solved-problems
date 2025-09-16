@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0053-maximum-subarray) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0070-climbing-stairs) |
