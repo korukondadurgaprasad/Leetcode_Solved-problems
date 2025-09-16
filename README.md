@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
