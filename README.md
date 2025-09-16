@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0890-lemonade-change) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
