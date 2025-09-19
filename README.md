@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0678-valid-parenthesis-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
@@ -429,5 +432,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0402-remove-k-digits) |
 | [2227-sum-of-subarray-ranges](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
