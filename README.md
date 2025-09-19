@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0136-single-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0232-implement-queue-using-stacks) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0152-maximum-product-subarray) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0085-maximal-rectangle) |
 | [1677-matrix-diagonal-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1677-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0937-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2227-sum-of-subarray-ranges) |
