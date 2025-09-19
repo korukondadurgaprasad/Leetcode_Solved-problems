@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0435-non-overlapping-intervals) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -389,16 +391,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0567-permutation-in-string) |
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
