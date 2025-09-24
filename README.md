@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0371-sum-of-two-integers) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0278-first-bad-version) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
