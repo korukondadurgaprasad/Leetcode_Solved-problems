@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3396-valid-word](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3396-valid-word) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0278-first-bad-version) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sorting
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0724-find-pivot-index) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1603-running-sum-of-1d-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Design
 |  |
 | ------- |
