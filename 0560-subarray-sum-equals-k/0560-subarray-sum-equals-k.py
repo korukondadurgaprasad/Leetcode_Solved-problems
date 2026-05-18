@@ -16,3 +16,20 @@ class Solution(object):
             sum_freq[prefix_sum] += 1
         
         return count
+# https://chatgpt.com/share/684ef00e-27cc-8003-99dd-d7ed0e9f46fc
+
+
+# def subarraySum(self, nums, k):
+#     total = 0
+#     cnt = 0
+    
+#     for i in range(len(nums)):
+#         total = 0
+        
+#         for j in range(i, len(nums)):
+#             total += nums[j]
+            
+#             if total == k:
+#                 cnt += 1
+    
+#     return cnt
