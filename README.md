@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2227-sum-of-subarray-ranges](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Recursion
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Design
 |  |
