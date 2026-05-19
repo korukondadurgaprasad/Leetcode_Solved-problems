@@ -5,7 +5,7 @@ class Solution(object):
         for num in range(2**n):  # Outer loop variable should be 'num'
             sub = []
             for i in range(n):   # Inner loop variable is 'i'
-                if (num >> i) & 1:
+                if num&(1<<i):
                     sub.append(nums[i])
             res.append(sub)
         return res
