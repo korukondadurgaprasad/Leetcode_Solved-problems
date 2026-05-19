@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2442-number-of-arithmetic-triplets](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
