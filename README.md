@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0812-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0937-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
