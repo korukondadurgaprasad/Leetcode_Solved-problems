@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0890-lemonade-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1020-longest-turbulent-subarray) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
