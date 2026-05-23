@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Counting
 |  |
