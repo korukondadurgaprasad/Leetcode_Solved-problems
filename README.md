@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2442-number-of-arithmetic-triplets](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0085-maximal-rectangle) |
 | [1677-matrix-diagonal-sum](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/1677-matrix-diagonal-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/korukondadurgaprasad/Leetcode_Solved-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
 | ------- |
